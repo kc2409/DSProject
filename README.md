@@ -1,5 +1,5 @@
 # DSProject
-The goal of this project is to implement the classification with decision tree and evaluate the classification performance  with various  other methods.
+The goal of this project is to implement the classification and evaluate the classification performance  with various  methods.
 THIS PROJECT INCLUDES:
 1. APPLICATION OF DECISION TREE CLASSIFIER ALGORITHM.
 2. APPLICATION OF GRID SEARCH CV FOR HYPER TUNING PARAMETERS.
